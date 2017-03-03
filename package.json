@@ -1,0 +1,26 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HigashiNana/day4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HigashiNana/day4/issues"
+  },
+  "homepage": "https://github.com/HigashiNana/day4#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.0"
+  },
+  "description": ""
+}
